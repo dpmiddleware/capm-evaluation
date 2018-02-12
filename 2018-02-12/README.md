@@ -22,9 +22,9 @@ By allowing components to compensate for their actions in the case of failures d
 
 ## Data Generated During the Evaluation
 
-A list of each ingest ID generated and its result classification can be found in [generateddataclassification.csv](generateddataclassification.csv).
+A list of each ingest ID generated and its result classification can be found in [ingesteventclassifications.csv](ingesteventclassifications.csv).
 
-All ingest event data generated can be found in the ZIP archive [generateddata.zip](generateddata.zip).
+All ingest event data generated can be found in the ZIP archive [ingestevents.zip](ingestevents.zip).
 
 ## A Note on Random Numbers
 
