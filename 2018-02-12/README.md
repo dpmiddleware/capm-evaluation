@@ -24,7 +24,7 @@ By allowing components to compensate for their actions in the case of failures d
 
 A list of each ingest ID generated and its result classification can be found in [generateddataclassification.csv](generateddataclassification.csv).
 
-All ingest event data generated can be found in the folder [GeneratedData](GeneratedData).
+All ingest event data generated can be found in the ZIP archive [generateddata.zip](generateddata.zip).
 
 ## A Note on Random Numbers
 
