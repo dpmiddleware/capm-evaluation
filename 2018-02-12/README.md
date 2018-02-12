@@ -20,7 +20,7 @@ As can be seen in the table above, a total of 947 of the ingest submissions gene
 
 By allowing components to compensate for their actions in the case of failures during the ingest, the system was able to automatically handle 939 of these cases, leaving only 8 cases which need any kind of manual work.
 
-## Data Generated During the Evaluation
+## Ingest Events Generated During the Evaluation
 
 A list of each ingest ID generated and its result classification can be found in [ingesteventclassifications.csv](ingesteventclassifications.csv).
 
