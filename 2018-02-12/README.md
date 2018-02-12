@@ -6,7 +6,7 @@ To evaluate the effects of the automated error handling, a random error risk of 
 
 Additionally, to simulate that there is also a risk that the compensating action itself experiences a failure, a random error risk of 0.01 was added to the compensating action in the Collector component.
 
-The system was executed using 100000 ingest submissions and observing the results gave the results below.
+The system was executed using 100000 ingest submissions and analyzing the ingest event data gave the results below.
 
 ## Result Summary
 
