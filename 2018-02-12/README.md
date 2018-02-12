@@ -16,7 +16,7 @@ The system was executed using 100000 ingest submissions and observing the result
 | CompensationSuccessful | 939 |
 | CompensationFailed | 8 |
 
-As can be seen, a total of 947 of the ingest submissions generated an error in the processing. This means that without automatic compensation of components with side effects, any component which has a side effect would have required manual work to handle 947 cases.
+As can be seen in the table above, a total of 947 of the ingest submissions generated an error in the processing. This means that without automatic compensation of components with side effects, any component which has a side effect would have required manual work to handle 947 cases.
 
 By allowing components to compensate for their actions in the case of failures during the ingest, the system was able to automatically handle 939 of these cases, leaving only 8 cases which need any kind of manual work.
 
